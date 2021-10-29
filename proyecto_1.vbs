@@ -1,7 +1,7 @@
 'proyecto para trabajar de forma paralela
 'Algo diferente para el merge
-'Adecucaci�n conflictos para el merge
-'Creando conflicto desde el desarrollador 2
+'Adecucación conflictos para el merge
+'Solución de conflictos de ambos desarrolladores
 a = 4
 b = 3
 Msgbox "Tratando de crear algunos conflictos"
