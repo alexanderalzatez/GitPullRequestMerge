@@ -1,4 +1,8 @@
 'proyecto para trabajar de forma paralela
-'Adecucación y cambios en el codigo hechos por AlexanderAlzate07
-Msgbox "Hello world from desarrollador 2"
-Msgbox "Colocando nuevos cambios desde la rama dev 2. Desarrollador 2"
+'Algo diferente para el merge
+'Adecucación conflictos para el merge
+a = 4
+b = 3
+Msgbox "Tratando de crear algunos conflictos"
+c = a*b
+Msgbox "dev2 tratando de hacer conflictos" & c
